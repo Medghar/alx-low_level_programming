@@ -1,8 +1,3 @@
 #!/bin/bash
 
-/**
- *main - main fonction
- *
- * Return: 0 on success
- */
 gcc -E $CFILE >> c
